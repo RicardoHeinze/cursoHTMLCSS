@@ -1,0 +1,49 @@
+body {
+	font-family: "Crimson Text", "Times New Roman", serif; /*Troca a fonte para a selecionada */
+	background-color: #F2FFFC; /*Mudar a cor do background */
+	font-size: 120%;	/*Altera o tamanho da fonte em % */
+}
+
+h1, h2 {
+	font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+p {
+	text-align: justify; /*Deixa os textos alinhados justificados */
+}
+
+blockquote{
+	background-color: #D9E5E3;
+}
+
+main h1{
+		text-align: center;
+    background-color: #851944;
+    color: #FFF;
+}
+
+aside {
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+}
+
+nav{
+	background-color: #3C1D3D;
+	color: #F2FFFC;
+}
+
+footer{
+	background-color: black;
+	color: #F2FFFC;
+}
+main a{ /*Só altera a cor dos links de direcionamento */
+	font-family: "Open Sans Condensed", "Arial", sans-serif;
+	color: #851944;
+}
+aside a{
+	color: inherit;
+	font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+main footer{
+	background-color: inherit;
+}
